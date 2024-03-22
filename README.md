@@ -7,3 +7,7 @@ Drive on Mars. Made with unity
 # How to run- 
 - Extract the zip folder
 - Run the file named 'Driving Fury.exe'
+
+# How to play
+- Use W for forward, S for Brake/Reverse, A for left, D for right
+- If you are stuck, tap the respawn button
